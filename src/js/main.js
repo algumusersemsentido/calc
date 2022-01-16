@@ -39,4 +39,7 @@ function main () {
 main()
 
 
+alert('oiiii')
+
+
 // teste
